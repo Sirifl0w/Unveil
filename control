@@ -1,0 +1,9 @@
+Package: com.sirifl0w.unveil
+Name: Unveil
+Depends: mobilesubstrate, firmware (>= 6.0), gsc.assistant
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Show notifications whilst using Siri!
+Maintainer: Sirifl0w
+Author: Sirifl0w
+Section: Tweaks
